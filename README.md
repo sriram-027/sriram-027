@@ -1,6 +1,6 @@
 ### Hi there! I'm Sriram B. 👋
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding,developer)
+![Profile Banner](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
 
 🚀 **Aspiring Software Developer | Diploma in Computer Engineering (2024) | Web & Software Enthusiast**
 
