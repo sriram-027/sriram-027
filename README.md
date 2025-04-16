@@ -49,17 +49,21 @@
 
 ### 🌟 Featured Projects:
 
-| Project | Description | Tech Stack |
-|---------|------------|------------|
-| **Portfolio Website** | Personal portfolio showcasing skills & projects | HTML, CSS, JavaScript |
-| **To-Do App** | A simple to-do list web app | JavaScript,  Firebase |
-| **Python Automation** | Scripts for automating repetitive tasks | Python,  |
+| Project              | Description                          | Tech Stack                |
+|----------------------|--------------------------------------|---------------------------|
+| **Portfolio Website** | Personal portfolio showcasing skills & projects | HTML, CSS, JavaScript     |
+| **To-Do App**         | A simple to-do list web app         | JavaScript, Firebase       |
+| **Python Automation** | Scripts for automating repetitive tasks | Python                  |
+| **E-Commerce Site**   | A responsive e-commerce frontend with product listings and cart | HTML, CSS, JavaScript     |
 
 🔗 **Check out my portfolio:**
 <p align="left">
   <a href="https://sriram-027.github.io/CodeFusion/"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=internetexplorer&logoColor=white"/></a>
 </p>
-
+🔗 **Check out my E-Commerce Site:**
+<p align="left">
+  <a href="https://sriram-027.github.io/e-commerce/"><img src="https://img.shields.io/badge/E--Commerce-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 ---
 
 ### 📫 Connect with Me:
