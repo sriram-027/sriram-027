@@ -55,23 +55,42 @@
 | **To-Do App**         | A simple to-do list web app         | JavaScript, Firebase       |
 | **Python Automation** | Scripts for automating repetitive tasks | Python                  |
 | **E-Commerce Site**   | A responsive e-commerce frontend with product listings and cart | HTML, CSS, JavaScript     |
+| **Gaming Tools**      | A gaming accessories showcase website | HTML, CSS, JavaScript     |
 
-🔗 **Check out my portfolio:**
+---
+
+<!-- Animated prompt -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=1000&color=000000&center=false&vCenter=true&width=800&lines=Explore+my+Portfolio%2C+E-Commerce%2C+and+Gaming+Tools+🚀)](https://sriram-027.github.io/CodeFusion/)
+
+<!-- Project Links -->
 <p align="left">
-  <a href="https://sriram-027.github.io/CodeFusion/"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=internetexplorer&logoColor=white"/></a>
+  <a href="https://sriram-027.github.io/CodeFusion/">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://sriram-027.github.io/e-commerce/">
+    <img src="https://img.shields.io/badge/E--Commerce-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="E-Commerce"/>
+  </a>
+  <a href="https://sriram-027.github.io/collect-your-gamingtools/">
+    <img src="https://img.shields.io/badge/Gaming%20Tools-%239146FF.svg?style=for-the-badge&logo=playstation&logoColor=white" alt="Gaming Tools"/>
+  </a>
 </p>
-🔗 **Check out my E-Commerce Site:**
-<p align="left">
-  <a href="https://sriram-027.github.io/e-commerce/"><img src="https://img.shields.io/badge/E--Commerce-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
+
 ---
 
 ### 📫 Connect with Me:
 <p align="left">
-  <a href="mailto:sri429422@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:sri429422@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sriram-b-027/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sriram-027">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/sriram_027">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ---
